@@ -1,4 +1,4 @@
 # add the following to _config.yml file
-title: Antonio Viscomi
+name: Antonio Viscomi
 title_separator: "-"
 theme: jeykll-theme-minimal
