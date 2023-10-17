@@ -1,4 +1,4 @@
 # add the following to _config.yml file
-theme: jeykill-theme-minimal
+theme: jekyll-theme-minimal
 title: Antonio Viscomi
 description: Prova per il sito
