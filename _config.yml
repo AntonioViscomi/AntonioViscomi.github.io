@@ -1,3 +1,4 @@
 # add the following to _config.yml file
-title: Antonio Viscomi
 theme: jeykll-theme-minimal
+title: Antonio Viscomi
+description: Prova per il sito
